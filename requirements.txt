@@ -1,0 +1,14 @@
+aiosqlite
+requests
+rubpy
+qrcode
+pillow
+gtts
+deep_translator
+phonenumbers
+pytz
+opencv-python
+aiohttp
+
+auto-py-to-exe
+
